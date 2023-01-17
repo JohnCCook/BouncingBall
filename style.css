@@ -1,0 +1,10 @@
+
+canvas {
+    border: 1px solid black;
+    background:orange;
+
+}
+.canvas {
+    display: flex;
+    justify-content:center
+}
